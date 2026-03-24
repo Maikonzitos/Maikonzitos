@@ -5,9 +5,9 @@ Sou um entusiasta de tecnologia focado em **automação de processos** e **infra
 No meu tempo livre, me dedico a estudar soluções que facilitam a rotina e a explorar o universo dos dados e da segurança.
 
 ### No que eu trabalho hoje:
-- 🐍 **Python & Automação:** Desenvolvimento de scripts para integração de dados (Google Sheets, APIs) e automação via iOS Shortcuts.
-- 🐳 **Docker:** Gerenciamento de containers para serviços domésticos (Pi-hole, Nextcloud).
-- 📊 **Análise de Dados:** Transformando inputs brutos em informações úteis para conhecimentos pessoais.
+- **Python & Automação:** Desenvolvimento de scripts para integração de dados (Google Sheets, APIs) e automação via iOS Shortcuts.
+- **Docker:** Gerenciamento de containers para serviços domésticos (Pi-hole, Nextcloud).
+- **Análise de Dados:** Transformando inputs brutos em informações úteis para conhecimentos pessoais.
 
 ### Buscando conhecimento em:
 - Fundamentos de **Cyber Security** e **Data Science**.
